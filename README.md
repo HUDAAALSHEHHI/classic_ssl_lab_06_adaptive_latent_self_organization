@@ -21,6 +21,7 @@ The experiment reveals measurable improvements in representation compactness and
 •	Inter-cluster separability improved by 27% according to silhouette metrics.
 •	Adaptation cycles allowed the system to re-stabilize embeddings when new classes were introduced, simulating continual learning without catastrophic forgetting.
 Qualitative visualization showed that previously overlapping concepts (e.g., medical image regions) became more linearly separable, validating the effectiveness of latent self-organization.
+
 📖 Key Observations
 
 •	Latent self-organization operates analogously to biological neural adaptation, showing plasticity in feature encoding.
@@ -29,4 +30,6 @@ Qualitative visualization showed that previously overlapping concepts (e.g., med
 •	Future directions include integrating energy-based models or diffusion mechanisms for continuous topological adaptation.
 
 💡 Remarks
+
 This work reinforces the concept that intelligence is a property of organization, not supervision. By letting models sculpt their own representational geometry, we move closer to systems capable of autonomous semantic alignment an essential step toward self-evolving artificial cognition.
+
